@@ -1,0 +1,10 @@
+{
+	"Id" : "SCLangPack",
+	"Name" : "SCLangPack-2.25.5.3",
+	"Author" : "<color=#55F026>林下</color><color=#3FAA33>清风</color><color=#406452>汉化组</color>",
+	"Description" : "<size=180%>该插件适配NoS的2.25.5.3版本，并提供了简体中文翻译。<br>翻译：<color=#00FFFF>宇航员</color> & <color=#95FFD8>最后de小雪</color> 校对：<color=#00FFFF>宇航员</color> & <color=#95FFD8>最后de小雪</color><br><b>最后十分感谢各位玩家能够支持我们！！</b></size>",
+	"Version" : "1.0",
+	"Build" : 0,
+	"Dependency" : [],
+	"Hidden" : False
+}
