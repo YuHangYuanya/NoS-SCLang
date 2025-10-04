@@ -13,7 +13,7 @@
 
 ### 寻找Among Us可执行文件的方法
 请从Steam中找到Among Us可执行文件的位置。(Steam游戏库 ⇒ 左侧菜单右键点击 Among Us ⇒ 属性 ⇒ 已安装文件 ⇒ 浏览)\
-请复制包含可执行文件的Among Us<ins>文件夹到同目录下，并为其重命名（例如 “Among Us Nebula”）。\
+请复制包含可执行文件的Among Us<ins>文件夹到同目录下，并为其重命名（例如 “Among Us Nebula”）。
 
 首次启动可能需要一分钟左右的加载时间。
 
@@ -24,7 +24,7 @@ Wiki页面收录了关于 Nebula on the Ship 新增角色等信息。 [点击此
 # 使用须知
 本MOD在包含原创元素的同时，也继承了许多MOD的创意，例如 The Other Roles。\
 致谢信息已在本页面中列出，因此当您介绍本MOD时，\
-请链接到此页面，而非提供直接的下载链接。\
+请链接到此页面，而非提供直接的下载链接。
 
 当您在视频或直播中使用本MOD时，为避免让观众误认为是原版Among Us，\
 请明确标注您正在使用MOD。\
@@ -65,6 +65,7 @@ Bug报告等信息交换请在此处进行：[点击加入Discord](https://disco
 [TheOtherRoles: GM Edition](https://github.com/yukinogatari/TheOtherRoles-GM) Madmate（疯狂船员）的角色创意来源于此MOD。\
 [Town Of Impostors](https://github.com/Town-of-Impostors/TownOfImpostors) Sniper（狙击手）、Necromancer（死灵法师）、Mayor（市长）的角色创意来源于此MOD。\
 [SuperNewRoles](https://github.com/SuperNewRoles/SuperNewRoles) 在SNR联动（v2.7）中，我们添加了Collator（临床检验技师）、Justice（天秤）、Alien（蝙蝠）、Effacer（干扰者）等角色。
+
 
 
 
