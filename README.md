@@ -7,9 +7,9 @@
 # 安装方法
 
 您可以通过安装程序进行安装。安装时，您需要拥有 Among Us 游戏。
-请点击此处下载： [NoS安装程序]https://github.com/Dolly1016/Nebula/releases/download/v%2Cv2.21.0.2%2C107%2C1380/Nebula_on_the_Ship_Installer.exe)
+请点击此处下载： [NoS安装程序](https://github.com/Dolly1016/Nebula/releases/download/v%2Cv2.21.0.2%2C107%2C1380/Nebula_on_the_Ship_Installer.exe)
 
-[2025/05/21 追記]　最新版に対応したインストーラに更新しました。本体バージョンv16.0.5以上に対応しています。
+[2025/05/21 追记]　已更新为支持最新版本的安装程序。本安装程序支持游戏本体 v16.0.5 及以上版本。
 
 ### 寻找Among Us可执行文件的方法
 请从Steam中找到Among Us可执行文件的位置。(Steam游戏库 ⇒ 左侧菜单右键点击 Among Us ⇒ 属性 ⇒ 已安装文件 ⇒ 浏览)\
@@ -31,7 +31,7 @@ Wiki页面收录了关于 Nebula on the Ship 新增角色等信息。 [点击此
 此外，如果您能一并介绍本MOD，我们将不胜感激。\
 如果您同时使用了其他MOD，也请分别确认其使用许可。
 
-# 支持我们（以下内容与汉化组无关，其链接由NoS开发者上传）
+# 支持我们（“我们”指NoS开发团队）
 [OFUSE](https://ofuse.me/nebulaontheship)\
 您的支持将是我们巨大的动力！非常感谢！
 
@@ -65,6 +65,7 @@ Bug报告等信息交换请在此处进行：[点击加入Discord](https://disco
 [TheOtherRoles: GM Edition](https://github.com/yukinogatari/TheOtherRoles-GM) Madmate（疯狂船员）的角色创意来源于此MOD。\
 [Town Of Impostors](https://github.com/Town-of-Impostors/TownOfImpostors) Sniper（狙击手）、Necromancer（死灵法师）、Mayor（市长）的角色创意来源于此MOD。\
 [SuperNewRoles](https://github.com/SuperNewRoles/SuperNewRoles) 在SNR联动（v2.7）中，我们添加了Collator（临床检验技师）、Justice（天秤）、Alien（蝙蝠）、Effacer（干扰者）等角色。
+
 
 
 
