@@ -62,9 +62,10 @@ Bug报告等信息交换请在此处进行：[点击加入Discord](https://disco
 ### 灵感来源
 
 [The Other Roles](https://github.com/Eisbison/TheOtherRoles) 本MOD的灵感最初来源于此。此外，为表致谢，我们借用了一部分图片。\
-[TheOtherRoles: GM Edition](https://github.com/yukinogatari/TheOtherRoles-GM) Madmate（疯狂船员）的角色创意来源于此MOD。\
+[TheOtherRoles: GM Edition](https://github.com/yukinogatari/TheOtherRoles-GM) Madmate（叛徒）的角色创意来源于此MOD。\
 [Town Of Impostors](https://github.com/Town-of-Impostors/TownOfImpostors) Sniper（狙击手）、Necromancer（死灵法师）、Mayor（市长）的角色创意来源于此MOD。\
-[SuperNewRoles](https://github.com/SuperNewRoles/SuperNewRoles) 在SNR联动（v2.7）中，我们添加了Collator（临床检验技师）、Justice（天秤）、Alien（蝙蝠）、Effacer（干扰者）等角色。
+[SuperNewRoles](https://github.com/SuperNewRoles/SuperNewRoles) 在SNR联动（v2.7）中，我们添加了Collator（基因学家）、Justice（大神官）、Alien（外星人）、Effacer（擦除者）等角色。
+
 
 
 
